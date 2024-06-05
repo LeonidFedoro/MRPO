@@ -1,0 +1,8 @@
+<gifts>
+    <gift id="1">
+        <sender_id>1</sender_id>
+        <receiver_id>2</receiver_id>
+        <description>Flowers</description>
+        <timestamp>2024-06-10T12:00:00</timestamp>
+    </gift>
+<gift id="1" name="Flowers" value="20.0" timestamp="2024-06-06T06:53:51.670669" /></gifts>

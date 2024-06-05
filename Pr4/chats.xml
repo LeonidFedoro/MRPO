@@ -1,0 +1,9 @@
+<chats>
+    <chat id="1">
+        <pair_id>1</pair_id>
+        <participants>
+            <participant id="1">john_doe</participant>
+            <participant id="2">jane_smith</participant>
+        </participants>
+    </chat>
+<chat id="1"><participants><participant id="1" /><participant id="2" /></participants></chat><chat id="1"><participants><participant id="1" /><participant id="2" /></participants></chat></chats>

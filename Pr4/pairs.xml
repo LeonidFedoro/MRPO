@@ -1,0 +1,7 @@
+<pairs>
+    <pair id="1">
+        <user1_id>1</user1_id>
+        <user2_id>2</user2_id>
+        <status>matched</status>
+    </pair>
+<pair user1="1" user2="2" /><pair user1="1" user2="2" /><pair user1="1" user2="2" /><pair user1="1" user2="2" /><pair user1="1" user2="2" /></pairs>
